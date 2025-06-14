@@ -2,7 +2,7 @@
 Blinkit Sales Analysis 
 This project presents a detailed sales analysis of Blinkit (an instant delivery platform) using Power BI. The dashboard offers a visual and interactive overview of sales, product types, outlet performance, and customer ratings.
 ________________________________________
-🔹 Main Highlights:
+# Main Highlights:
 1.	Overall Metrics Overview:
 	Showcased total sales, average sales, total number of items, and average customer rating.
 	These indicators help understand overall business health and customer satisfaction.
@@ -22,5 +22,5 @@ ________________________________________
 	A table shows each outlet type’s sales, item visibility, average sales per item, and average customer rating.
 	Supports outlet-level performance review.
 ________________________________________
-✅ Conclusion:
+# Conclusion:
 This Power BI dashboard gives Blinkit a complete view of their sales by product type, outlet location, and customer feedback. It helps in making informed decisions about inventory, outlet expansion, and marketing strategies.
